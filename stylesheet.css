@@ -93,6 +93,8 @@ nav ul li{
     padding:10px;
 
     grid-template-areas: 
+    /*Hela första raden ska bestå av area1
+    resterande 3 ska delas på andra raden (2:nd row)*/
     "area1 area1 area1 area1"
     "area2 area2 area3 area3";
   
